@@ -1,3 +1,8 @@
+# original sourc
+
+<b> Original source : [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists) </b>
+
+
 # Code repository
 <table width='100%'>
  <tr>
