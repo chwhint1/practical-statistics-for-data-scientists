@@ -1,7 +1,7 @@
-# original sourc
+# original soure
 
 <b> Original source : [Practical Statistics for Data Scientists](https://github.com/gedeck/practical-statistics-for-data-scientists) </b>
-
+<b> This is for just study. Do not use this material commercially </br>
 
 # Code repository
 <table width='100%'>
